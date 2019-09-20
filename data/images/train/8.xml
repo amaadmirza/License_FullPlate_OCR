@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>ocr_label_images</folder>
+	<filename>8.png</filename>
+	<path>/home/amaad/Downloads/Champion_Code/ocr_label_images/8.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>268</width>
+		<height>63</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BA4276</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>3</ymin>
+			<xmax>265</xmax>
+			<ymax>62</ymax>
+		</bndbox>
+	</object>
+</annotation>

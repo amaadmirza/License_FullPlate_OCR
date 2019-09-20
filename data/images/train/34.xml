@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>ocr_label_images</folder>
+	<filename>34.png</filename>
+	<path>/home/amaad/Downloads/Champion_Code/ocr_label_images/34.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>232</width>
+		<height>92</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>RIN4597</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>3</ymin>
+			<xmax>228</xmax>
+			<ymax>88</ymax>
+		</bndbox>
+	</object>
+</annotation>

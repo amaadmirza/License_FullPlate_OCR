@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>ocr_label_images</folder>
+	<filename>22.png</filename>
+	<path>/home/amaad/Downloads/Champion_Code/ocr_label_images/22.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>238</width>
+		<height>135</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>IDM2010</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>3</ymin>
+			<xmax>235</xmax>
+			<ymax>133</ymax>
+		</bndbox>
+	</object>
+</annotation>

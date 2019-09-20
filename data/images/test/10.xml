@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>ocr_label_images</folder>
+	<filename>10.png</filename>
+	<path>/home/amaad/Downloads/Champion_Code/ocr_label_images/10.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>154</width>
+		<height>67</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LET</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>1</ymin>
+			<xmax>151</xmax>
+			<ymax>65</ymax>
+		</bndbox>
+	</object>
+</annotation>

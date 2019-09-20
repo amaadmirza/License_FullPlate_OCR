@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>ocr_label_images</folder>
+	<filename>32.png</filename>
+	<path>/home/amaad/Downloads/Champion_Code/ocr_label_images/32.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>226</width>
+		<height>118</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>XA488</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>4</ymin>
+			<xmax>220</xmax>
+			<ymax>114</ymax>
+		</bndbox>
+	</object>
+</annotation>
